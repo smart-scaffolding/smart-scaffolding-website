@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Scaffolding MQP</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 22 Aug 2019 16:47:30 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2019 16:47:30 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-5/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Climbing</title>
+        <description>
+</description>
+        <pubDate>Wed, 21 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/08/21/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/21/project-6/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
